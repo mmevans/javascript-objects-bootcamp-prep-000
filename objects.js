@@ -1,4 +1,7 @@
-var playlist = {Queen : "Fat Bottom Girls"}
+var playlist = {
+  Queen : "Fat Bottom Girls"
+  
+}
 
 function updatePlaylist(playlist, 'Rush', 'YYZ') {
   
