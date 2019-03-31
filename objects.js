@@ -3,7 +3,7 @@ var playlist = {
   
 }
 
-function updatePlaylist(playlist, 'Rush', 'YYZ') {
-  
-  return 
+function updatePlaylist(playlist, Rush, YYZ) {
+  playlist['Rush'] = 'YYZ';
+  return playlist;
 }
